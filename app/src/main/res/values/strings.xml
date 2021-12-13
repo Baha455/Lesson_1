@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson_1</string>
+    <string name="category">Category</string>
+    <string name="questions_amount">Questions amount:</string>
+    <string name="quiz">Quiz</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="start">START</string>
+
+    <string-array name="planets_array">
+        <item>All</item>
+        <item>Clown</item>
+        <item>Circus</item>
+        <item>Show</item>
+        <item>Jupiter</item>
+    </string-array>
+</resources>

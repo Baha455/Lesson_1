@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Main_light"
+        android:icon="@drawable/ic_explore_active"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/SecondFragment"
+        android:icon="@drawable/ic_map___inactive"
+        android:title="TODO" />
+
+    <item
+        android:id="@+id/ThirdFragment"
+        android:icon="@drawable/ic_profile_inactive"
+        android:title="TODO" />
+</menu>

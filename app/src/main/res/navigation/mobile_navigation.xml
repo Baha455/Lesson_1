@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/mainLightFragment"
+    android:id="@+id/mobile_navigation">
+    <fragment
+        android:id="@+id/mainLightFragment"
+        android:name="com.example.lesson_1.MainLightFragment"
+        android:label="fragment_main_light"
+        tools:layout="@layout/fragment_main_light" />
+</navigation>
